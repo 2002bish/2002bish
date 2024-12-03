@@ -1,4 +1,4 @@
-# MY
+
 <h1 align="center">Hi 👋, I'm Bishal Niroula</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2002bish&label=Profile%20views&color=0e75b6&style=flat" alt="2002bish" /> </p>
 
